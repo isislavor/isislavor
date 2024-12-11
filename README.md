@@ -16,6 +16,7 @@ Sou Isis Lavor, estudante de Ciência da Computação na Universidade Federal do
 <img width="100px" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="100px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
+<br>
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 
