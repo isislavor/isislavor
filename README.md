@@ -2,7 +2,14 @@
 <br>
 <hr>
 <h2>📌 Sobre mim</h2>
-<p align = "justify">Oi! Meu nome é <b>Isis Lavor</b>, desde os 12 anos tenho curiosidade e fascínio pela tecnologia, naquela época via alguns códigos em Python sem nem mesmo saber o que era (eu achava legal mesmo assim😂).Depois disso, comecei a ver o básico de HTML com incentivo do meu irmão, ele fez o mesmo curso técnico que eu, só que antes de mim. Em 2019, iniciei meus estudos no curso de informática e aprendi um tanto de: <b>informática básica</b>, arquitetura e manutenção de computadores,  <b>lógica de programação (C, Python)</b>,  <b>programação web (HTML, CSS, Java Script, PHP)</b>, banco de dados,  <b>robótica com Arduíno</b>, P.O.O. (Java) e  <b>design</b>. Obs.: Os meus favoritos estão em negrito. Atualmente, estou cursando <b>Ciência da computação</b> na UFC e tentando obter o máximo de aprendizado possível, algumas das minhas atividades durante o curso estarão aqui, apesar das dificuldades que eu tive ao fazê -las. A minha ideia aqui é mostrar minhas etapas de aprendizado, dificuldades e evoluções. Também, as etapas que deram certo (é claro). Uma das áreas que eu gosto muito e estou iniciando os estudos é Segurança da informação .Acho que é isso, você já me conhece bem 🤓.</p>
+<p align = "justify">
+Sou Isis Lavor, estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), com uma base sólida em tecnologia construída desde o curso técnico em Informática. Durante essa formação, desenvolvi habilidades essenciais como lógica de programação(C,Python), programação web (HTML, CSS, JavaScript, PHP), banco de dados, robótica com Arduino, programação orientada a objetos (Java) e design, que foram fundamentais para o aprofundamento dos meus estudos no curso superior.  
+
+Atualmente, sou estagiária em desenvolvimento front-end, trabalhando com tecnologias como JavaScript e TypeScript, além de integrar o Blue Team em um projeto de Segurança da Informação. Também cofundei, junto com um colega, um projeto universitário que utiliza jogos interativos para o ensino de programação e possuo experiência em desenvolvimento back-end com Java e Python em projetos acadêmicos.  
+
+Complemento minha formação participando de maratonas de programação, onde aprofundei meus conhecimentos em C++, e competições de Capture The Flag, que me proporcionaram experiência prática em segurança da informação. Tenho forte interesse nas áreas de desenvolvimento de software e segurança da informação, e busco continuamente aprimorar minhas habilidades e contribuir para projetos inovadores.  
+
+</p>
 <hr><h2>🔨 Tecnologias e ferramentas</h2><br>
 <div align ="center">
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
